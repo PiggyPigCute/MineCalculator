@@ -1,0 +1,1 @@
+$execute store result score .$(to) calc.data run data get storage calc:data data.$(from)

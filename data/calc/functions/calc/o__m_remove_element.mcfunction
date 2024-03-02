@@ -1,0 +1,1 @@
+$data remove storage calc:data data.array[$(i)]

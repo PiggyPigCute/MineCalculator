@@ -1,0 +1,6 @@
+{
+    "pack":{
+        "pack_format": 26,
+        "description": "try /function calc: {calc:\"1+1\"}"
+    }
+}

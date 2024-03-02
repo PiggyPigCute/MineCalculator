@@ -1,0 +1,1 @@
+$data modify storage calc:data data.slice set from storage calc:data data.array[$(i)]

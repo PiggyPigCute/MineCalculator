@@ -1,0 +1,1 @@
+$execute store result storage calc:data data.$(to) int 1 run scoreboard players get .$(from) calc.data

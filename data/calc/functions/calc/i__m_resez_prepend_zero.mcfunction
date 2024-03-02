@@ -1,0 +1,1 @@
+$data modify storage calc:data data.array insert $(i) value "0"
