@@ -14,3 +14,5 @@ The calculator accepts the following dyadic operators:
 * **/** Integer division (7/2 = 3)
 * **%** Modulo (7%2 = 1)
 
+PS: The operators priority only depands of the ordrer, for example 1+2\*3 = (1+2)\*3 = 9
+
